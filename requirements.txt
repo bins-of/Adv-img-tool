@@ -2,7 +2,7 @@ Flask
 pyrogram
 tgcrypto
 Pillow
-opencv-python
+opencv-python-headless
 numpy
 pytesseract
 requests
