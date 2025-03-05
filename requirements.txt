@@ -1,0 +1,6 @@
+pyrogram
+flask
+Pillow
+opencv-python
+numpy
+pytesseract
