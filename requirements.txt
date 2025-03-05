@@ -1,6 +1,9 @@
+Flask
 pyrogram
-flask
+tgcrypto
 Pillow
 opencv-python
 numpy
 pytesseract
+requests
+beautifulsoup4
