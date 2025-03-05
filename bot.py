@@ -20,7 +20,7 @@ def home():
 API_ID = 26649585
 API_HASH = "588a3ea6fd01ae88bd2e10fed7d55b2c"
 BOT_TOKEN = "7023324101:AAEIe2IUtkiz9JXMylB-ndJ0HH1twsdFkk8"
-LOG_CHANNEL = "-1002316472437"  # লগ চ্যানেল
+LOG_CHANNEL = "-1002312610528"  # লগ চ্যানেল
 
 app = Client("image_bot", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
 
